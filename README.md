@@ -40,6 +40,6 @@ sudo ./src/firewall_repair.sh --allow-service https --zone public
 
 Firewall changes can interrupt remote access and production traffic. Confirm an emergency console or alternate access path before changing rules. The tool does not flush the entire ruleset or change default policies automatically.
 
-## Author
+## Maintainer
 
-Dewald Pretorius — L2 IT Support Engineer
+IAmLegionVaal
